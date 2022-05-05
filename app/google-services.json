@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068503228430",
+    "project_id": "demologinfirebase-ec672",
+    "storage_bucket": "demologinfirebase-ec672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068503228430:android:e63731a202320824399c5f",
+        "android_client_info": {
+          "package_name": "com.example.demologinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068503228430-1jc7t2a0jn2agjrn7c1d83gcjg6lht9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5L1eCAvf-nSPP25xc9ghG7f9gqpXyyrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068503228430-1jc7t2a0jn2agjrn7c1d83gcjg6lht9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
